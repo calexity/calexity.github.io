@@ -1,9 +1,23 @@
 body {
-	background-color: #e5e2e2;
+	background-color: #666667;
 	font-family: Arial, Verdana, sans-serif;
 }
 
 div {
 	margin: 25px;
+	padding: 10px 5px 5px 10px;
+	background-color: #f0f4f4;
 }
 
+h1 {
+	padding: 0px;
+	font-size: 3em;
+}
+
+h2 {
+	font-size: 2em;
+}
+
+h3 {
+	font-size: 1.5em;
+}
