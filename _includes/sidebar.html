@@ -1,0 +1,10 @@
+<h3>About Me</h3>
+
+<p>This is a text section so I should come up with something witty to put here.  But I'm too lazy because coding is more fun than writing</p>
+
+<ul>
+  {% for post in site.posts limit:5 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+      {% endfor %}
+</ul>

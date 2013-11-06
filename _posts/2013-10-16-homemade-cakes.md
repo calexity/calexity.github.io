@@ -1,0 +1,15 @@
+---
+title: Homemade Cakes
+layout: default
+---
+# Homemade Cakes
+
+From the simple chocolate bar or piece of pie to the more elegant creme broule or tiramasu, most of us delight in the flavor, sensation and indulgence that sweets provide. We all have our own personal favorites, but overall, one of our most beloved sweets is cake.
+
+The old adage says, "You can't have your cake and eat it, too," but we seem determined to eat it again and again -- in fact, we're rarely without an occasion to eat cake. In the morning? Coffee cake -- that warm, sugary, cinnamon-covered, raisin-filled confection -- goes oh-so-perfectly with a cup of coffee or tea. Afternoon or evening? Cake makes a yummy midday snack, and a delicious conclusion to the evening meal. It has become so ingrained in our celebrations and holidays that we can hardly imagine a get-together without it. Birthdays. Graduations. Weddings. In February, many bakers take to the kitchen to prepare a sweet treat for their Valentine. At Easter, coconut-covered cakes with clusters of colorful jelly beans are a popular addition to the holiday table. When the strawberry crop comes in, it's time for angel food. And at Christmas, we have fruitcake. It's hard to name an occasion that doesn't have cake associated with it.
+
+But if you like cakes, you know there's nothing like a real cake -- the kind made with a little bit of time, a lot of love, and carefully chosen ingredients. In other words, the kind of cakes that Grandma used to make. You may think there's no such a thing as a "bad cake," but until you've savored a cake made from scratch, you can't really know how good a cake can be, either. (And it takes only a little more effort than making one from a box.)
+
+Cakes are so popular, in fact, that you can find them virtually anywhere. In the grocery store, the baking aisle offers cake mixes and, down a few other aisles, there's a variety of frozen cakes. The store may also have a bakery with a selection of decorated and ready-to-eat cakes. All over town, cakes are sold at bakeries, restaurants, coffee shops, and delis -- you can even find cake in snack-packs at the gas station.
+
+In the beginning . . . there was cake.
